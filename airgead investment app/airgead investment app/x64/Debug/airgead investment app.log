@@ -1,0 +1,10 @@
+﻿  investment.h
+  investmentApp.cpp
+C:\Users\zotec\OneDrive - SNHU\CS-210 Programming Languages\airgead investment app\airgead investment app\investmentApp.cpp(82,12): warning C4101: 'initialInvestment': unreferenced local variable
+C:\Users\zotec\OneDrive - SNHU\CS-210 Programming Languages\airgead investment app\airgead investment app\investmentApp.cpp(84,12): warning C4101: 'annualInterest': unreferenced local variable
+C:\Users\zotec\OneDrive - SNHU\CS-210 Programming Languages\airgead investment app\airgead investment app\investmentApp.cpp(83,12): warning C4101: 'monthlyDeposit': unreferenced local variable
+C:\Users\zotec\OneDrive - SNHU\CS-210 Programming Languages\airgead investment app\airgead investment app\investmentApp.cpp(85,9): warning C4101: 'years': unreferenced local variable
+C:\Users\zotec\OneDrive - SNHU\CS-210 Programming Languages\airgead investment app\airgead investment app\investmentApp.cpp(89,5): error C2059: syntax error: 'while'
+C:\Users\zotec\OneDrive - SNHU\CS-210 Programming Languages\airgead investment app\airgead investment app\investmentApp.cpp(89,18): error C2143: syntax error: missing ';' before '{'
+C:\Users\zotec\OneDrive - SNHU\CS-210 Programming Languages\airgead investment app\airgead investment app\investmentApp.cpp(89,18): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
